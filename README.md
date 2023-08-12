@@ -1,1 +1,2 @@
-# dzhang-heihei
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%3644D7&center=true&vCenter=true&width=600&lines=Hi+there+👋,+I+am+David+Zhang;+Welcome+to+My+GitHub!🌟;a+passionate+developer+and+tech+enthusiast;Let's+explore+the+exciting+world+of+code+together!+🚀;)](https://git.io/typing-svg)
